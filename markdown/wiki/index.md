@@ -1,4 +1,4 @@
-
+/HACKOF/FFROBOT/HACKER/ID/DIAMOND/MODBOT/
 # Welcome to the PojavLauncher Wiki!
 ____
 * Get started by [installing Pojavlauncher](./getting_started/INSTALL)!
